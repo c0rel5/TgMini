@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+dist/
+build/
+portable/
+installer/
+*.spec
+config.json
+*.session
+*.session-journal
+tmp/
+data/
